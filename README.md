@@ -10,6 +10,8 @@ This is a part of the TME290 - Autonomous Robots course.
 The final output can be visualised in the following video:\
 [![Alt text](https://img.youtube.com/vi/fW5CsNZUt0I/0.jpg)](https://www.youtube.com/watch?v=fW5CsNZUt0I)
 
+Two of the other microservices used in this project and need to run alonside this are [opendlv-perception-cone-detection-cpp](https://github.com/Rahul-Pi/opendlv-perception-cone-detection-cpp) and [opendlv-actuation-kiwi-steering-cpp](https://github.com/Rahul-Pi/opendlv-actuation-kiwi-steering-cpp)
+
 # How to get the program running:
 
 Pre-requisite:
